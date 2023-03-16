@@ -9,6 +9,9 @@ datagroup: new_project_lookml_default_datagroup {
   max_cache_age: "1 hour"
 }
 
+datagroup: neww {
+  max_cache_age: "2 hour"
+}
 persist_with: new_project_lookml_default_datagroup
 
 
